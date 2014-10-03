@@ -4,8 +4,6 @@ title:  "The Something Else"
 date:   2014-10-04 08:45:10
 categories: jekyll update
 ---
-A few brands like <a href="http://www.rapha.cc/">Rapha</a> and <a href="http://dolan-bikes.com/">Dolan</a> have pushed hard and decided to sell direct to the customer... and it's a very hard push. Rapha burn millions of calories every month permeating a brand which puffs it's chest out to the cool-degree. They don't talk to the customer directly, because with no channel they can't, and instead rely on being head and shoulders above the rest from far away. Dolan on the other hand present their channel savings back to the customer in the form of pricing. Their frames are some of the cheapest on the market and pay the price in correlative-prestige as a result.
-
 Distance in business can be measured on a number of axis other than physical mileage. Language, service, payment and positioning also weigh in on the argument. Online tech has reduced these distances enough to make direct sales a credible option. Why pay a middle man retailer to represent, sell and support my products to the customer when I can do it better myself?
 
 Sounds great. Except when actual geographical distance gets in the way. Which it <a href="/index.php/shipping-from-china/">does for us</a>.
