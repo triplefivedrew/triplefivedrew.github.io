@@ -6,7 +6,7 @@ categories: sales
 tags: consumer behaviour sales
 image: /assets/article_images/loch-ness.jpg
 ---
-The act of purchasing is as significant to many consumers as receiving the actual product. That feeling of receiving a focussed service which is there to help you through a transaction is often overlooked as a marketing and satisfaction tool. When it is used effectively, it can be very impactful.
+The act of purchasing is as significant to many consumers as posessing the actual product. That feeling of receiving a focussed service which is there to help you through a transaction is often overlooked as a marketing and satisfaction tool. When it is used effectively, it can be very impactful.
 
 Take the very successful Hot Pot Restaurant chain <a href="http://www.haidilao.com/index.html">HaiDiLao</a>. They sell mediocre food at reasonable prices with the added gimmick that you get popcorn, internet terminals, massages and manicures whilst waiting for a table to become available. Except it's not a gimmick. They've turned a queue into a product and the process of purchasing a meal has turned into an experience of satisfaction.
 
