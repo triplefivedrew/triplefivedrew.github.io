@@ -12,7 +12,7 @@ Which is why employing that first wave of new people is such a delicate process.
 
 It's not just a case of finding people who are better than you but trying to recognise qualities in a candidate that have grown so organically in ourselves... and may take even longer to develop in someone else.
 
-Or not. Despite a feeling of such careful vetting of a bunch of candidates who ticked most of the boxes, the truth is that most people are just not the right fit. Working in a loose, many-opportunities environment alongside people who implicitly know every aspect of the business... actually means operating without remit in a high pressure office where nobody fully expressed what is going on.
+Or not. Despite a feeling of such careful vetting of a bunch of candidates who ticked most of the boxes, the truth is that most people are just not the right fit. Working in a loose, many-opportunities environment alongside people who implicitly know every aspect of the business... actually means operating without remit in a high pressure office where nobody fully expresses what is going on.
 
 Which is not for everybody. When it isn't for a new employee then the results are perhaps not so obvious. Sure, there are many frameworks for measuring performance and having good HR practices and they're for another story. In the real work of making new businesses happen there's a million timing, resources and self-deprecating reasons why they're not in place.
 

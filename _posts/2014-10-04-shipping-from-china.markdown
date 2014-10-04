@@ -4,7 +4,7 @@ title:  "Shipping from China"
 date:   2014-10-04 15:34:25
 categories: shipping
 tags: shipping fulfilment 
-image: /assets/article_images/loch-ness.jpg
+image: /assets/images/ocean-tanker.jpg
 ---
 Our online store has been running for eight months. We designed and built it in house, stocked the virtual shelves and then opened with no big idea of who would walk through the door.
 
@@ -40,8 +40,7 @@ d) Take a hit. Thanks to Amazon Prime and hourly inter-Europe flights, customers
 
 Above all, only ship internationally if the business is worth having. There are enough costs of trading overseas and geographic is only the longest. Consider if it's all worth it.
 
-As we grow we're monitor orders are coming from (and where interest is coming from - those two are not necessarily the same) and planning to open regional hubs to help keep stock closer to customers - which is a whole other ballgame for another post.
-
+As we're growing we are monitoring where orders are coming from (and where interest is coming from - those two are not necessarily the same) and planning to open regional hubs to help keep stock closer to customers - which is a whole other ballgame for another post.
 
 
 
