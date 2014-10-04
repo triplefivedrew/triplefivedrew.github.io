@@ -11,15 +11,15 @@ email: drew@wearefactoryfive.com
 #blog logo
 logo: "/assets/images/lattice-chainring.jpg"
 # blog cover
-cover: "/assets/images/sea-of-bikes.jpg"
+cover: "/assets/images/bikes-header.jpg"
 
 name: 'Drew Bates'
 author: 'Drew Bates'
 author_image: "/assets/images/lattice-chainring.jpg"
 
-paginate:	5
+paginate:	7
 
-url: "http://192.184.88.213:4000/" # the base hostname & protocol for your site
+url: "http://192.184.88.213" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
