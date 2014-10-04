@@ -16,5 +16,5 @@ From then until now we've been on an exploration through uncharted China. We've 
 
 Luckily none of us had any of that physical experience. Beyond everything else we trusted our intuition to do what feels good.
 
-In truth we're good story tellers. This is my business story.
+In truth we're pretty good story tellers. This is my business story.
 
