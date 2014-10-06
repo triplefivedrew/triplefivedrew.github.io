@@ -86,20 +86,34 @@
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>
-          {{content}}
-        </section>
-		<section>
-			<div class="post-readingss">
-			Related posts<br/>
-			{% for relatedpost in site.related_posts %}
-			 <a href="{{ relatedpost.url }}">{{ relatedpost.title }}</a><br/>
-			{% endfor %}
-		    </div>
-		</section>
-		<section>
-			here comes next : {{ page.next.title }} <br />
-			here comes previous : {{ page.previous.title }}
-		</section>
+          <div>
+		  {{content}}
+	      </div>
+		  <div>
+		    Related posts<br/>
+		    {% for relatedpost in site.related_posts %}
+		      <a href="{{ relatedpost.url }}">{{ relatedpost.title }}</a><br/>
+		    {% endfor %}
+		  </div>
+			
+          <div class="bottom-teaser cf">
+            <div class="isRight">
+              <h5 class="index-headline featured"><span>Previous Post</span></h5>
+              <footer class="site-footer">
+                <section class="poweredby"><a href="{{ page.next.url }}">{{ page.previous.title }}</a></section>
+                <a href="{{ page.next.url }}"><span class="tooltip">{{ page.previous.excerpt | strip_html }}</span></a>
+              </footer>
+            </div>
+			
+            <div class="isRight">
+              <h5 class="index-headline featured"><span>Next Post</span></h5>
+              <footer class="site-footer">
+                <section class="poweredby"><a href="{{ page.next.url }}">{{ page.next.title }}</a></section>
+                <a href="{{ page.next.url }}"><span class="tooltip">{{ page.next.excerpt | strip_html }}</span></a>
+              </footer>
+            </div>
+          </div>
+	    </section>
 		<section>
 			{% include comments.html %}
 		</section>
