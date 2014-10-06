@@ -88,6 +88,21 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
+		<section>
+			<div class="post-readingss">
+			Related posts<br/>
+			{% for relatedpost in site.related_posts %}
+			 <a href="{{ relatedpost.url }}">{{ relatedpost.title }}</a><br/>
+			{% endfor %}
+		    </div>
+		</section>
+		<section>
+			here comes next : {{ page.next.title }} <br />
+			here comes previous : {{ page.previous.title }}
+		</section>
+		<section>
+			{% include comments.html %}
+		</section>
         <footer class="post-footer">
           <section class="share">
             {% for social in site.social %}
