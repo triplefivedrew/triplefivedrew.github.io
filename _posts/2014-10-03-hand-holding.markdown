@@ -1,9 +1,20 @@
 ---
 layout: post
-title:  "Hand Holding"
+title:  "Hold my Hand Whilst I make this Decision"
+oneline: "Why the most important part of a transaction is often left until last"
 date:   2014-10-03 15:34:25
-categories: service customers
+categories: Sales
 tags: support custom 
 image: /assets/article_images/loch-ness.jpg
 ---
+I never realized just how much effort it takes to help customers choose which products they want to buy.
+
+For every person who walks in with enough information to make a purchase, there are 10 who need help to make a few key decisions. Half of them know they want to buy something... but have no idea what it is yet.
+
+The best one is the guy who walks in and says 'sell me something'.
+I guess it's a reality 
+
+ knowing what they want, has all the information  
+
+
 For every person who makes a completely self-supported order (no contact with us) there are five that need some kind of help. It

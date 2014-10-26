@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Shipping from China"
+title:  "Business Ballaches: Shipping From China"
+online: "How to keep distance a variable and not a destroyer"
 date:   2014-10-04 15:34:25
-categories: shipping
+categories: fulfillment
 tags: shipping fulfilment 
 image: /assets/images/ocean-tanker.jpg
 ---
