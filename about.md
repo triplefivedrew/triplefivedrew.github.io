@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I came to Shangahi in 2009. Five years puts me directly in the category of been here long enough to scratch the surface but not so long that I've gone full native and forgot where the surface is.
+I came to Shangahi in 2009. Five years puts me directly in the category of been here long enough to scratch the surface but not so long that I've gone full native and forgotten where the surface is.
 
 After a couple years at [CEIBS][CEIBS] I figured I'd been given a golden ticket and enough textbooks to do anything with my career. One day, after a long ride and before a big beer something clicked.
 
