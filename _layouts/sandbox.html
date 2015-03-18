@@ -1,0 +1,33 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body itemscope itemtype="http://schema.org/Article">
+    {% include header.html %}
+    <main class="content" role="main">
+      <article class="post">
+        {% include header-block.html %}
+        <section class="post-content" style="padding: 150px 0 0 0">
+          <a name="topofpage"></a>
+          <div>
+            <ul>
+              {% for post in site.posts %}
+                {% if post.url %}
+                  <li>
+                 
+                    <img width="20px" src="{{ post.image }}">&nbsp;
+                 
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+        </div>
+      </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

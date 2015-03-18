@@ -9,6 +9,8 @@
   @include clearfix
 
 $rs: 16px
+$mw: 900px
+$sw: 680px
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
@@ -22,10 +24,12 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 %vertical-rhythm
   margin-bottom: $rs
 
-
-
 body
+  background-color: #404040
+  //background-color: #333
+  //background-image: url("../assets/images/bg_pattern.png")
   font-family: $font-sans
+  color: white
   margin: 0
   padding: 0
   text-rendering: optimizeLegibility
@@ -36,13 +40,12 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
-.logo-readium-1
+.floating-logo
   position: fixed
   left: 10px
   top: 10px
   width: $rs*3
   height: $rs*3
-  background-color: #000
   overflow: hidden
   z-index: 99
   .logo
@@ -74,25 +77,6 @@ body
     height: $rs*2
     background-size: cover
     background-repeat: no-repeat
-	
-.logo-readium-3
-  position: fixed
-  left: 10px
-  top: 110px
-  width: $rs*3
-  height: $rs*3
-  background-color: #000
-  overflow: hidden
-  z-index: 99
-  .logo
-    display: block
-    position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
-    background-size: cover
-    background-repeat: no-repeat
 
 .teaserimage
   height: 450px
@@ -112,7 +96,7 @@ body
 
 .blog-header-strip
   width: 100%
-  background-color: #EEEEEC
+  background-color: #CCCCCD
   border-style: solid
   border-width: 1px
   border-color: #CCCCCA
@@ -159,10 +143,11 @@ body
         &:hover
           color: #333
 
-.content
+.blog-listing
   width: 100%
-  max-width: 640px
+  max-width: $mw
   margin: 0 auto
+  padding: 200px $rs*2 0 $rs*2
   @include box-sizing(border-box)
   @include respond-to(800)
     padding: 0 $rs*2
@@ -185,19 +170,18 @@ body
         &:hover
           text-decoration: none
     .post-excerpt
+      //max-width: $mw
       letter-spacing: -0.02em
       font-weight: 300
       font-style: normal
       font-size: 20px
       line-height: 1.3
-      color: #666665
+      //color: #666665
       a
-        color: #333
-        text-decoration: underline
+        color: #DDD
+        text-decoration: none
         &:hover
-          color: #555
-      img
-        max-width: 100%
+          color: #FFF
     .post-meta
       font-size: 14px
       color: #b3b3b1
@@ -207,6 +191,56 @@ body
         text-decoration: none
         &:hover
           text-decoration: underline
+
+.content
+  width: 100%
+  //max-width: $mw
+  margin: 0 auto
+  @include box-sizing(border-box)
+  @include respond-to(800)
+    //padding: 0 $rs*2
+  article
+    padding: 20px 0
+    border-bottom: 1px solid #f2f2f0
+    &:last-child
+      border-bottom: 0px
+    .post-title
+      letter-spacing: -0.02em
+      font-weight: 700
+      font-style: normal
+      display: block
+      font-size: 28px
+      line-height: 1.1
+      margin: 0 0
+      a
+        text-decoration: none
+        color: #333332
+        &:hover
+          text-decoration: none
+    .post-excerpt
+      //max-width: $mw
+      letter-spacing: -0.02em
+      font-weight: 300
+      font-style: normal
+      font-size: 20px
+      line-height: 1.3
+      //margin: 0 auto
+      //color: #666665
+      a
+        color: #333
+        text-decoration: underline
+        &:hover
+          color: #555
+    .post-meta
+      font-size: 14px
+      color: #b3b3b1
+      line-height: 30px
+      a
+        color: #b3b3b1
+        text-decoration: none
+        &:hover
+          text-decoration: underline
+
 .container.featured
   padding-bottom: 40px
 
@@ -237,6 +271,43 @@ body
     &:hover
       color: #333
 
+.article-item
+  max-width: 900px
+  a
+    color: #FFF
+    text-decoration: none
+    &:hover
+      color: #CCCCCC
+  .blog-list-image
+    position: relative
+    padding: 5px
+    width: 100%
+    height: 250px
+    background-color: #000000
+    background-size: 100%
+    background-repeat: no-repeat
+    background-position: center
+    //filter: gray
+    //filter: grayscale(1)
+    //-webkit-filter: grayscale(1)
+  .article-title
+    letter-spacing: -0.02em
+    font-weight: 300
+    font-style: normal
+    font-size: 30px
+    line-height: 1.3
+    margin-bottom: 0px
+  .view-post-button
+    border: #EEE
+    border-style: solid
+    width: 140px
+    padding: 8px
+    a
+      color: #FFF
+      text-decoration: none
+      &:hover
+        color: #CCCCCC
+
 .post-reading
   position: absolute
   top: 10px
@@ -255,21 +326,10 @@ body
   color: rgba(255,255,255,0.9)
   text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
 
-.site-footer
-  margin: 0 auto
-  padding: $rs*3 0
-  width: 100%
-  max-width: 640px
-  font-size: $rs/4*3
-  text-align: center
-  color: #999
-  line-height: $rs*1.1
-  a
-    color: #666
-    text-decoration: none
-    &:hover
-      color: #333
 .post
+  .content-column
+    margin: 0 auto
+    padding-top: 50px
   .article-image
     position: absolute
     background-color: #000
@@ -405,9 +465,23 @@ body
       white-space: nowrap
       text-overflow: ellipsis
   .post-content
+    //font-family: $font-serif
     width: 100%
-    font-family: $font-serif
+    .onecolumn
+      max-width: $sw
+      margin: 0 auto
+    .twocolumn
+      max-width: $mw
+      margin: 0 auto
     color: #333
+    .copy
+      margin: 0 auto
+    .media
+      width: 100%
+      overflow: hidden
+    .inline
+      max-width: $sw
+      margin: 0 auto
     h1, h2, h3
       font-family: $font-sans
     h3, h4, h5, h6
@@ -428,22 +502,46 @@ body
       padding-top: 31px
       margin-bottom: 4px
     p
+      //text-align: justify
+      //text-justify: inter-word
+      margin: 25px auto 25px auto  
+      @include respond-to(730)
+        margin: 25px
+      max-width: $sw
       font-weight: 400
       font-style: normal
-      font-size: 22px
-      line-height: 30px
-      margin: 0
-      padding-bottom: 30px
-      color: #333
+      font-size: 20px
+      line-height: 28px
+      padding-bottom: 14px
+      color: #dfdfdf
       -webkit-hyphens: auto
       -moz-hyphens: auto
       hyphens: auto
     a
-      color: #333
-      text-decoration: underline
+      color: #888
+      text-decoration: none
+      &:hover
+        color: #DDD
     img
       max-width: 100%
+      width: 100%
       margin: 0 auto
+      opacity: 1
+      -webkit-transition: opacity 0.5s ease
+      -moz-transition: opacity 0.5s ease
+      &:hover
+        opacity: 0.8
+        -webkit-transition: opacity 0.5s ease
+        -moz-transition: opacity 0.5s ease
+    .imagewithlightbox
+      float: left
+      @include respond-to(480)
+        width: 100%!important
+      &:hover
+        background-position: center
+        background-repeat: no-repeat
+        background-image: url("../img/open.png")
+        
     figure
       margin: 0
       padding: 0 0 30px
@@ -475,54 +573,41 @@ body
         padding-left: 20px
         margin-left: -26px
         padding-bottom: 3px
-    ul, ol
-      padding: 0 0 30px
-      margin: 0
-      li
-        list-style-type: none
-        padding: 0
-        font-weight: 400
-        font-style: normal
-        font-size: 23px
-        margin-left: 30px
-        margin-bottom: 0px
-        padding-top: 2px
-        p
-          padding: 0 0 golden-ratio(1rem,  1)
-        a
-          text-decoration: none
-          &:hover
-            color: #999
+
     ol li
       list-style-type: decimal
 
-.author-block
-  padding: 10px
+.list-of-things
+  ul, ol
+    padding: 0 0 30px
+    margin: 0
+    li
+      list-style-type: none
+      padding: 0
+      font-weight: 400
+      font-style: normal
+      font-size: 23px
+      margin-left: 30px
+      margin-bottom: 0px
+      padding-top: 2px
+      p
+        padding: 0 0 golden-ratio(1rem,  1)
+      a
+        text-decoration: none
+        &:hover
+          color: #999
+
+.detail-info
+  width: 100%
+  .standard
+    max-width: $sw
+  .wide
+    max-width: $mw
+  padding: 10px 0
   font-family: $font-sans
-  border-style: solid
-  border-width: 1px
-  border-color: #CCC
-  .author-image
-    float: left
-    width: 75px
-    padding-right: 5px 
-    img
-      width: 75px
-  .author-description
-    width: 100%
-    padding-left: 5px
-  
-.content-blocks
-  padding: 25px 0
-  font-family: $font-sans
-  hr
-    border: 0
-    padding: 0
-    display: block
-    width: 15%
-    margin: 16px 0 16px 0px
-    border: 0px solid #ddd
-    border-top: 1px solid #ddd
+  margin: 0 auto
+  div
+    background-color: #444
   a
     color: #999
     &.tinytext
@@ -536,7 +621,88 @@ body
       color: #555
       &.ondark
         color: #666
-      
+  li
+    list-style-type: none
+  h4
+    font-size: 18px
+    line-height: 1.1
+    font-weight: 700
+    padding: 0
+    margin: 0
+    padding-left: 0px
+  p
+    font-size: 14px
+    line-height: 1.3
+    font-weight: 400
+    padding: 0
+    margin: 0
+    padding-left: 0px
+    &.ondark
+      color: #fff
+    &.published
+      color: #999
+  .index-headline
+    padding-bottom: 10px
+  .isLeft
+    float: left
+    width: 50%
+    padding-right: 10px
+    @include box-sizing(border-box)
+    @include respond-to(800)
+      width: 100%
+      padding-bottom: $rs
+      padding-right: 0px 
+  .isRight
+    float: right
+    width: 50%
+    padding-left: 10px
+    padding-right: 10px
+    @include box-sizing(border-box)
+    @include respond-to(800)
+      width: 100%
+      padding-bottom: $rs*2
+      padding-left: 0px
+      padding-right: 0px
+      padding-bottom: 0px
+  .isFullWidth
+    width: 100%
+    padding-bottom: $rs*2
+  .mapnozoom
+    background: transparent
+    position: relative
+    width: 100%
+    height: 200px
+    top: 200px
+    margin-top: -200px
+
+.content-blocks
+  max-width: $sw
+  padding: 25px 0
+  font-family: $font-sans
+  margin: 0 auto
+  hr
+    border: 0
+    padding: 0
+    display: block
+    width: 15%
+    margin: 16px 0 16px 0px
+    border: 0px solid #ddd
+    border-top: 1px solid #ddd
+  a
+    color: #999
+    &.tinytext
+      font-size: 13px
+      text-decoration: none
+      &:hover
+        color: #999
+    &.ondark
+      color: #fff
+    text-decoration: none
+    &:hover
+      text-decoration: none
+      color: #555
+      &.ondark
+        color: #666
   h4
     font-size: 18px
     line-height: 1.1
@@ -582,6 +748,28 @@ body
   .isFullWidth
     width: 100%
     padding-bottom: $rs*2
+
+.comments
+  background-color: #333
+  width: 100%
+  .comments-inner
+    max-width: $sw
+    margin: 0 auto
+
+.site-footer
+  margin: 0 auto
+  padding: $rs*3 0
+  width: 100%
+  max-width: 640px
+  font-size: $rs/4*3
+  text-align: center
+  color: #999
+  line-height: $rs*1.1
+  a
+    color: #666
+    text-decoration: none
+    &:hover
+      color: #333
 
 .share
   text-align: right
@@ -631,23 +819,7 @@ body
       text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
     .custom-links
       margin: 0 0 50px
-    .btn
-      display: inline-block
-      text-align: center
-      letter-spacing: -0.02em
-      font-size: 15px
-      font-weight: 400
-      font-style: normal
-      text-decoration: none
-      cursor: pointer
-      height: 44px
-      background: #57ad68
-      color: #fff
-      vertical-align: middle
-      box-sizing: border-box
-      border-radius: 999em
-      line-height: 44px
-      padding: 0 18px
+
 
 #disqus_thread
   margin-top: 50px

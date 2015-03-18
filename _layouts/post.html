@@ -7,42 +7,58 @@
     {% include header.html %}
     <main class="content" role="main">
       <article class="post">
-        {% include header-parallax.html %}
-        <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
+        {% if page.image %}
+          {% include header-parallax.html %}
+        {% else %}
+            {% include header-block.html %}
+        {% endif %}
+        <section class="post-content" style="padding: 150px 0 0 0">
           <a name="topofpage"></a>
-          <div>
-            {{content}}
-         </div>
+          <div class="content-column">
+            <div id="content" {% if page.image-gallery %}class="copy" {% endif %}>
+              {{ content }}
+              <!-- code to display an image column if no images have been displayed already -->
+              {% if page.image-gallery %}
+                {% assign image-strips = content | split: "image-strip" %}
+                {% if image-strips.size == 1 %}
+                  {% include images-strip.html images-here='all' size='inline' format='column' %}
+                {% endif %}
+              {% endif %}
+            </div>
+          </div>
         </section>
+        {% if page.show_details %}
+          {% include detail-info.html %}
+        {% endif %}
         <section>
-          {% include comments.html %}
-        </section>
-        <section>	
           <div class="content-blocks cf">
             <div class="isLeft">
               {% if page.previous %}
                 <h5 class="index-headline"><span>Previous Post</span></h5>
                 <strong><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></strong>
                 <br/>
-				<a  class="tinytext" href="{{ page.next.url }}"><span class="tooltip">{{ page.previous.oneline | strip_html }}</span></a>
+               <a class="tinytext" href="{{ page.next.url }}"><span class="tooltip">{{ page.previous.oneline | strip_html }}</span></a>
               {% endif %}
             </div>
             <div class="isRight">
               {% if page.next %}
                 <h5 class="index-headline"><span>Next Post</span></h5>
                 <strong><a href="{{ page.next.url }}">{{ page.next.title }}</a></strong>
-				<br/>
-				<a class="tinytext" href="{{ page.next.url }}"><span class="tooltip">{{ page.next.oneline | strip_html }}</span></a>
+                <br/>
+                <a class="tinytext" href="{{ page.next.url }}"><span class="tooltip">{{ page.next.oneline | strip_html }}</span></a>
               {% endif %}
             </div>
+            <div style="clear: both"></div>
           </div>
-         </section>
-        {{/post}}
-      </article>
-    </main>
-	{% include footer.html %}
+        </section>
+        <section class="comments">
+          <div class="comments-inner">
+            {% include comments.html %}
+          <div>
+        </section>
+      {{/post}}
+    </article>
+  </main>
+  {% include footer.html %}
   </body>
 </html>

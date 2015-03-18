@@ -1,0 +1,18 @@
+---
+layout: post
+title: Hanzi
+date: 2009-10-23 23:10:37.000000000 +08:00
+categories:
+- China
+tags:
+- learning chinese
+
+image: /assets/post_images/article_covers/hanzi-full.jpg
+oneline: ''
+---
+So, have been learning characters for a few days. It turns out there is some logic behind it, 70% of the time either the left or the right (or top or bottom or inside or outside) part denotes the meaning and the left (or top or bottom or inside or outside) determines the pronunciation.
+
+Both concepts are totally abstract however and the other 30% of the time its totally abstract and nothing means anything.
+
+Still, it's easy to recognise 看 which means see or look and resembles a hand over an eye like a golfer trying to spot his ball (!)
+

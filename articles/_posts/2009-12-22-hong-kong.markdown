@@ -1,0 +1,16 @@
+---
+layout: post
+title: Hong Kong
+date: 2009-12-22 18:41:48.000000000 +08:00
+categories:
+- China
+tags:
+- christmas
+- hong kong
+- photography
+
+image: /assets/post_images/article_covers/hong-kong-full.jpg
+oneline: ''
+---
+Really Great to be back in Hong Kong again - and so close! Felt a little more expensive, though, now that our penny-barometers have dropped to a Shanghai level. The highlight again was taking the star ferry from central to TST at 8pm and sitting on the harbour promenade.
+

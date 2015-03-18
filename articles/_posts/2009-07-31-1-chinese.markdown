@@ -1,0 +1,13 @@
+---
+layout: post
+title: 1% Chinese
+date: 2009-07-31 18:05:34.000000000 +08:00
+categories:
+- China
+tags:
+- learning chinese
+
+image: /assets/post_images/article_covers/one-percent-chinese-full.jpg
+oneline: ''
+---
+Today we all graduated from the Chinese precourse. I'm now officially on the bottom rung of the Chinese language ladder. I even have the certificate to prove it. Here's a photo of our class.

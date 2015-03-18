@@ -1,0 +1,21 @@
+---
+layout: post
+title: Shanghai F1
+date: 2010-04-20 08:49:52.000000000 +08:00
+categories:
+- China
+tags:
+- f1
+- formula one
+image: /assets/post_images/article_covers/shanghai-f1-full.jpg
+oneline: ''
+image-gallery:
+  -  url: /assets/post_images/dark_images/4535076048_75b40d6bae_z.jpg
+     caption: At the Shanghai F1
+  -  url: /assets/post_images/dark_images/4528347622_ca3a9d5890_z.jpg
+     caption: Alonso at the Shanghai F1 Qualifying
+  -  url: /assets/post_images/dark_images/4535075604_8f60865fe4_z.jpg
+     caption: Queuing Ferraris at the Shanghai F1
+---
+Pit lane seats opposite the Mclaren garage at a cracking race which included rain on the first lap, 5 tyre changes, queuing Ferraris and a British one-two. All to the sound of 700bhp.
+

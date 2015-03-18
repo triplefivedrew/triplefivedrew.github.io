@@ -1,0 +1,14 @@
+---
+layout: post
+title: Out of Lunch 11:00~11:30
+date: 2010-05-13 11:05:36.000000000 +08:00
+categories:
+- China
+tags:
+- ceibs
+- chinglish
+- out to lunch
+image: /assets/post_images/article_covers/out-of-lunch-full.jpg
+oneline: ''
+---
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Metro Line 7
+date: 2009-12-30 18:52:56.000000000 +08:00
+categories:
+- China
+tags:
+- metro
+image: /assets/post_images/article_covers/metro-line-7-full.jpg
+oneline: ''
+image-gallery:
+  -  url: /assets/post_images/dark_images/4228136584_013ae3d81d_z.jpg
+     caption: Shanghai Metro Line 7
+  -  url: /assets/post_images/dark_images/4227362115_98d5500d44_z.jpg
+     caption: Huama Lu
+---
+Took a ride today on the new metro line 7. I don't think anyone knows it exists. It goes from right outside our building to within a 20RMB stone's throw of ceibs. Looks fresh - I wonder how long it will be before someone tries to drive their car into a carriage.

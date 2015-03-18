@@ -1,0 +1,32 @@
+---
+layout: post
+title: Route 66, USA
+oneline: A ride along the most famous road in America
+date: 2014-08-16 20:54:44.000000000 +08:00
+categories:
+- Elsewhere
+tags:
+- arizona
+- highway
+- route 66
+- USA
+image: /assets/post_images/article_covers/Route-66_007.jpg
+image-gallery:
+  -  /assets/Route-66_009.jpg
+  -  /assets/Route-66_011.jpg
+  -  /assets/Route-66_008.jpg
+  -  /assets/Route-66_003.jpg
+  -  /assets/Route-66_004.jpg
+  -  /assets/Route-66_005-500x333.jpg
+  -  /assets/Route-66_012-500x333.jpg
+---
+East of Las Vegas, on the way to the Grand Canyon, is another USA treasure. Route 66. It was one of the first highways in the country, running from Chicago through to Santa Monica and during the 1930s served as the main trunk of westward migration for people looking for a better life.
+
+{% include images-strip.html images-here='1,2,3,7' %}
+
+It was officially retired as a proper highway sometime during the 80s. Now it lives on as a reminder of getting across a country in the good old days. When gas was cheap, ice creams were large and music was innocent.
+
+
+Route 66 was an industry, the epitome of nostalgic America. We spent a day cruising the couple hundred mile stretch around Kingman and Seligman, stopping off at dusty gas stations and curious motels. Then we chanced on the real deal - Mr D'z.
+
+{% include images-strip.html images-here='4,5,6' %}

@@ -1,0 +1,16 @@
+<div id="image-strip" class="media inline">
+  {% assign image-array = include.images-here | split: "," %}
+  {% for imageindex in image-array %}
+    {% assign num = imageindex | minus: 1 %}
+    <div style="width: {{ 100.00 | divided_by: image-array.size }}%; float:left;" class="imagewithlightbox">
+      <a 
+        href="{% if page.image-gallery[num].url %}{{ page.image-gallery[num].url }}{% else %}{{ page.image-gallery[num] }}{% endif %}" 
+        data-lightbox="lightbox-gallery" 
+        data-title="{% if page.image-gallery[num].caption %}{{ page.image-gallery[num].caption }}{% else %}{{page.title}}{% endif %}"
+      ><img 
+        src="{% if page.image-gallery[num].url %}{{ page.image-gallery[num].url }}{% else %}{{ page.image-gallery[num] }}{% endif %}"
+        />
+      </a>
+    </div>    
+  {% endfor %} 
+</div>

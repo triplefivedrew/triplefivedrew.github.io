@@ -3,19 +3,19 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Thinking Fixed"
+title: "Triple Five Shanghai"
 description: > # this means to ignore newlines until "email:"
-    The business of bicycles in China. A story of following a passion, starting from scratch, making decisions and getting things done.
+    the china antitourist
 
-email: drew@wearefactoryfive.com
+email: electronicdrew@gmail.com
 #blog logo
-logo: "/assets/images/lattice-chainring.jpg"
+logo: "/assets/images/555.gif"
 # blog cover
-cover: "/assets/images/bikes-header.jpg"
+cover: "/assets/images/moganshan.jpg"
 
 name: 'Drew Bates'
 author: 'Drew Bates'
-author_image: "/assets/images/lattice-chainring.jpg"
+author_image: "/assets/images/555.gif"
 
 paginate:	7
 

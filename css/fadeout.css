@@ -1,0 +1,25 @@
+.fadeout {
+    position: relative; 
+    bottom: 4em;
+    height: 4em;
+    background: -webkit-linear-gradient(
+        rgba(64, 64, 64, 0) 0%,
+        rgba(64, 64, 64, 1) 100%
+    ); 
+    background-image: -moz-linear-gradient(
+        rgba(64, 64, 64, 0) 0%,
+        rgba(64, 64, 64, 1) 100%
+    );
+    background-image: -o-linear-gradient(
+        rgba(64, 64, 64, 0) 0%,
+        rgba(64, 64, 64, 1) 100%
+    );
+    background-image: linear-gradient(
+        rgba(64, 64, 64, 0) 0%,
+        rgba(64, 64, 64, 1) 100%
+    );
+    background-image: -ms-linear-gradient(
+        rgba(64, 64, 64, 0) 0%,
+        rgba(64, 64, 64, 1) 100%
+    );
+} 

@@ -1,0 +1,44 @@
+---
+layout: post
+title: A slide around SF
+image: /assets/post_images/article_covers/SF-Hills-940x350.jpg
+date: 2014-05-04 19:30:34.000000000 +08:00
+categories:
+- Elsewhere
+tags:
+- crooked street
+- hills
+- lombard
+- painted ladies
+- riding
+- san francisco
+oneline: A soaking ride around San Francisco to snag the landmarks
+    and satisfaction from climbing the world's steepest city streets on a shopping
+    bike.
+image-gallery:	
+  -  url: /assets/post_images/dark_images/14122181863_4eda350666_z.jpg
+     caption: Lombard Street
+  -  url: /assets/post_images/dark_images/14078991546_79e6514747_z.jpg
+     caption: Lombard Street
+  -  url: /assets/post_images/dark_images/13915467349_79f8984cb1_z.jpg
+     caption: Painted Ladies
+  -  url: /assets/post_images/dark_images/14102092865_afe2f383a9_z.jpg
+     caption: SF Tram
+  -  url: /assets/post_images/dark_images/14098888931_e2141541cf_z.jpg
+     caption: Lombard Street
+  -  url: /assets/post_images/dark_images/14078977466_fa998bcf85_z.jpg
+     caption: Finshermans Wharf
+---
+After living for a while in Shanghai we all have to admit it's freaking flat. So flat that whilst on vacation in San Francisco, the idea of getting on a shopping bike in the rain and riding up the world's steepest city streets sounds like a dream. <a title="Argonaut Hotel" href="http://www.argonauthotel.com/" target="_blank">The Argonaut Hotel</a> is right at the bottom of a pretty big hill, and happens to have a few <a title="Public Bikes" href="http://publicbikes.com/" target="_blank">Public Bikes</a> for free rental so I waited until the rain was right at it's heaviest and put on a few too many layers of clothing for a session of the hardest climbing I've ever done (with a basket).
+
+{% include images-strip.html images-here='1,2' size='inline' %}
+
+Let's just say it wasn't pretty... as my <a title="a rainy ride through SF" href="http://www.strava.com/activities/116972545" target="_blank">Strava logs</a> will show. However it was a beautiful way to see San Francisco from all angles. The feeling of grinding up a block or two and turning round to see the city fall away is spell binding. Which is probably why I celebrated finding the famous crooked street along Lombard by almost becoming a human landslide down it and then slipping with no grip <a href="http://www.strava.com/activities/117600654" target="_blank">back up</a> against traffic like a Shanghai Salmon. It may look dry from the photos but that's merely an illusion.
+
+Shedding layers into that convenient basket like a pro, all that was left was a downhill glide over to <a title="Mash SF" href="http://mashsf.com/" target="_blank">Mash SF</a> to talk <a title="Factory Five Lattice Chainrings" href="http://wearefactoryfive.com/f5-lattice-chainring.html" target="_blank">Lattice chainrings</a> and then around a couple more landmarks, including the beautiful <a title="Painted Ladies" href="http://en.wikipedia.org/wiki/Painted_ladies" target="_blank">Painted Ladies.</a> They're worth one shot, or 0.5 shots without a blue sky - here's mine...
+
+{% include images-strip.html images-here='3' size='inline' %}
+
+But what if you're not up for getting drenched or breaking yourself to climb the hills. How to get around? The tram silly. It's super-cool, especially the one which cruises alongside the water from fisherman's wharf and then all the way down Market Street to The Castro.
+
+{% include images-strip.html images-here='4,5,6' %}

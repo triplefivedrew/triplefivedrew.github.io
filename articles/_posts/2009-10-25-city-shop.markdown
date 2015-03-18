@@ -1,0 +1,21 @@
+---
+layout: post
+title: City Shop
+date: 2009-10-25 21:30:43.000000000 +08:00
+categories:
+- China
+tags:
+- expensive
+- laowai
+image: /assets/post_images/article_covers/city-shop-full.jpg
+oneline: ''
+image-gallery:
+  -  url: /assets/post_images/dark_images/4019524066_354ea35fc7_z.jpg
+     caption: Cityshop
+---
+If you say the word 'expat', within 30 seconds someone will say '<a href="http://www.cityshop.com.cn">city shop</a>'. It's basically Shanghai's answer to Whole Foods and is full of western families, their screaming blond kids and their bemused ayi.
+
+Ok, we have snuck in here for a baguette and boneless chicken breast from time to time but the prices are laughable.
+
+Where else in the world are you going to pay £10 for a box of Alpen? Switzerland maybe.
+

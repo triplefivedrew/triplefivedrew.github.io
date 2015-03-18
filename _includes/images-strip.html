@@ -1,0 +1,41 @@
+<div id="image-strip" class="media {{ include.size }}">
+  {% if include.images-here == 'all' %}
+    {% for image in page.image-gallery %}
+      {% if include.format == 'column' %}
+        {% assign image-width = 100.00 %}
+      {% else %}
+        {% assign image-width = 100.00 | divided_by: page.image-gallery.size %}
+      {% endif %}
+      <div style="width: {{ image-width }}%;" class="imagewithlightbox">
+        <a 
+          href="{% if image.url %}{{ image.url }}{% else %}{{ image }}{% endif %}" 
+          data-lightbox="lightbox-gallery" 
+          data-title="{% if image.caption %}{{ image.caption }}{% else %}{{ page.title }}{% endif %}"
+        ><img 
+          src="{% if image.url %}{{ image.url }}{% else %}{{ image }}{% endif %}"
+          />
+        </a>
+      </div>    
+    {% endfor %}
+  {% else %}
+    {% assign image-array = include.images-here | split: "," %}
+    {% for imageindex in image-array %}
+      {% assign num = imageindex | minus: 1 %}
+      {% if include.format == 'column' %}
+        {% assign image-width = 100.00 %}
+      {% else %}
+        {% assign image-width = 100.00 | divided_by: image-array.size %}
+      {% endif %}
+      <div style="width: {{ image-width }}%;" class="imagewithlightbox">
+        <a 
+          href="{% if page.image-gallery[num].url %}{{ page.image-gallery[num].url }}{% else %}{{ page.image-gallery[num] }}{% endif %}" 
+          data-lightbox="lightbox-gallery" 
+          data-title="{% if page.image-gallery[num].caption %}{{ page.image-gallery[num].caption }}{% else %}{{page.title}}{% endif %}"
+        ><img 
+          src="{% if page.image-gallery[num].url %}{{ page.image-gallery[num].url }}{% else %}{{ page.image-gallery[num] }}{% endif %}"
+          />
+        </a>
+      </div>    
+    {% endfor %} 
+  {% endif %}
+</div>

@@ -12,7 +12,7 @@ layout: default
     <div class="blog-header">
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">
-        The Business of Bicycles in China
+        The China Antitourist. Occasional Food Eater.
         &nbsp; | &nbsp;
         <a href="/about/">About</a>
         &nbsp; | &nbsp;
@@ -44,24 +44,45 @@ layout: default
     }(jQuery));
 </script>
 
-<main class="content" role="main">
+<main class="blog-listing" role="main">
     <div class="cf frame">
       {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <article style="margin: 0 auto;" class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--           <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            {% if post.image %}
+              <div class="blog-list-image" style="background-image: url({{ post.image }});">
+              </div>
+            {% endif %}
+            <div style="float: left; width: 200px;">
+              <header class="post-header">
+                <h2 class="article-title" itemprop="name">
+                  <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
+                </h2>
+                <div class="post-meta">
+                  <time datetime="{{ post.date | date_to_long_string }}">
+                    {{ post.date | date_to_long_string }}
+                  </time>
+                <!--           <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+                </div>
+              </header>
             </div>
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | truncatewords: 150 }}</p>
-			  <p><a href="{{ post.url }}" itemprop="url">... continue reading</a></p>
-            </section>
-            
+            <div style="float: right; width: 100%; max-width: 500px;">
+              <section class="post-excerpt" itemprop="description">
+                <p>
+                  {% if post.excerpt %}
+                    {{ post.excerpt }}
+                  {% else %}
+                    {{ post.content | strip_html | truncatewords: 150 }}
+                  {% endif %}
+                  <br />
+                  </p>
+                <div class="view-post-button" style="float: right">
+                  <a href="{{ post.url }}" itemprop="url">continue reading</a>
+                </div>
+              </section>
+            </div>
           <div>
+            <div style="clear: both;"></div>
         </article>
       {% endfor %}
     </div>

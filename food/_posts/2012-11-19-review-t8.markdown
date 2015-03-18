@@ -1,0 +1,181 @@
+---
+layout: post
+title: 'Shanghai''s Best Restaurants: T8'
+date: 2012-11-19 11:14:10.000000000 +08:00
+image: /assets/post_images/food_covers/T8-full.jpg
+oneline: ""
+show_details: yes
+name: ""
+website: ""
+tel: "021 "
+address_en: ""
+address_cn: "上海市"
+address_map: ""
+cuisine: ""
+stars: 
+categories:
+- Food Articles
+tags:
+- classy
+- expensive
+- food
+- high end
+- restaurant review
+- shanghai
+- xintiandi
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _headspace_page_title: 'Shanghai''s Best Restaurants: T8'
+  _headspace_description: Behind Shanghai's firmly bricked aspirations for a modern
+    future, there's a tender attention to gastronomic detail wrapped in upper-class
+    style that makes T8 something really quite special.
+  _live_tile_speed: '1000'
+  _live_data_stops: 0%,100%
+  _live_data_delay: '0'
+  _tile_img_front: http://www.triplefiveshanghai.com/wp-content/uploads/2013/01/T8-Version-2.jpg
+  _tile_img_back: ''
+  _list_img_front: http://www.triplefiveshanghai.com/wp-content/uploads/2012/12/T8.jpg
+  _live_tile_mode: slide
+  _live_tile_dir: horizontal
+  _tile_size: large
+  _tile_colour: themecolor
+  _tile_icon: quote-dark
+  _tile_colour_pick: none
+  _live_tile_check: 'off'
+  _live_data_stack: 'off'
+  _lightbox_check: 'on'
+  _colour_picker_check: 'off'
+  _tile_icon_check: 'off'
+  _tile_date_check: 'on'
+  _post_colour: themecolor
+  _post_colour_pick: none
+  _post_hyperlink: ''
+  _embed_field: ''
+  _embed_field_alt: ''
+  _video_poster: ''
+  _embed_width: ''
+  _embed_height: ''
+  _post_colour_picker_check: 'off'
+  _thumbnail_id: '3429'
+  _oembed_97025b66529841b08fdfe6e7ffc9b185: <a href="http://www.flickr.com/photos/triplefivechina/8197650747"><img
+    src="http://farm9.staticflickr.com/8490/8197650747_2edc05bd06_z.jpg" alt="T8"
+    /></a>
+  _oembed_5e2140427cdaae2126b9caa130076143: <a href="http://www.flickr.com/photos/triplefivechina/8198743242"><img
+    src="http://farm9.staticflickr.com/8341/8198743242_0a6705cc06_z.jpg" alt="T8"
+    /></a>
+  _oembed_76f35954aaad707f479837ecdb4b4988: <a href="http://www.flickr.com/photos/triplefivechina/8197651083"><img
+    src="http://farm9.staticflickr.com/8481/8197651083_48eac231bd_z.jpg" alt="T8"
+    /></a>
+  _oembed_260dd53d2212af4bbddff2e45128999c: <a href="http://www.flickr.com/photos/triplefivechina/8198742038"><img
+    src="http://farm9.staticflickr.com/8202/8198742038_20f995f672_z.jpg" alt="T8"
+    /></a>
+  _oembed_e622df52673532776bcea961cb2da386: <a href="http://www.flickr.com/photos/triplefivechina/8198741588"><img
+    src="http://farm9.staticflickr.com/8200/8198741588_66abf67f2d_z.jpg" alt="T8"
+    /></a>
+  _oembed_c11b786c37c4231a96a1dfe2ed416667: <a href="http://www.flickr.com/photos/triplefivechina/8198737020"><img
+    src="http://farm9.staticflickr.com/8199/8198737020_f6f73bde0f_z.jpg" alt="T8"
+    /></a>
+  _oembed_90d14f94db1a9ad093adb914f94011fd: <a href="http://www.flickr.com/photos/triplefivechina/8197646371"><img
+    src="http://farm9.staticflickr.com/8198/8197646371_2b2a5d7861_z.jpg" alt="T8"
+    /></a>
+  _oembed_6ea0c75d7454966621e3d3eff6b50aeb: <a href="http://www.flickr.com/photos/triplefivechina/8197647073"><img
+    src="http://farm9.staticflickr.com/8489/8197647073_d90c34d848_z.jpg" alt="T8"
+    /></a>
+  _oembed_421305c7c1c5aa91313cff9eeb191ea7: <a href="http://www.flickr.com/photos/triplefivechina/8197647073"><img
+    src="http://farm9.staticflickr.com/8489/8197647073_d90c34d848_z.jpg" alt="T8"
+    /></a>
+  _oembed_a545a2ed531383276ed4dca1f36ea05a: <a href="http://www.flickr.com/photos/triplefivechina/8197646371"><img
+    src="http://farm9.staticflickr.com/8198/8197646371_2b2a5d7861_z.jpg" alt="T8"
+    /></a>
+  _oembed_39c291b8bcc3283f0755859de08df23e: <a href="http://www.flickr.com/photos/triplefivechina/8198737020"><img
+    src="http://farm9.staticflickr.com/8199/8198737020_f6f73bde0f_z.jpg" alt="T8"
+    /></a>
+  _oembed_ada8d451ca48e9920fbe99abd63b09af: <a href="http://www.flickr.com/photos/triplefivechina/8198741588"><img
+    src="http://farm9.staticflickr.com/8200/8198741588_66abf67f2d_z.jpg" alt="T8"
+    /></a>
+  _oembed_da3858be77861f5b8c88f6934e66387d: <a href="http://www.flickr.com/photos/triplefivechina/8198742038"><img
+    src="http://farm9.staticflickr.com/8202/8198742038_20f995f672_z.jpg" alt="T8"
+    /></a>
+  _oembed_428ebb23cce780dafa9beaa916de8abc: <a href="http://www.flickr.com/photos/triplefivechina/8197651083"><img
+    src="http://farm9.staticflickr.com/8481/8197651083_48eac231bd_z.jpg" alt="T8"
+    /></a>
+  _oembed_1c6f649f6e113d204a51c17256870fe8: <a href="http://www.flickr.com/photos/triplefivechina/8198743242"><img
+    src="http://farm9.staticflickr.com/8341/8198743242_0a6705cc06_z.jpg" alt="T8"
+    /></a>
+  _oembed_d3ad689dd393b5f84a941fd4474836aa: <a href="http://www.flickr.com/photos/triplefivechina/8197650747"><img
+    src="http://farm9.staticflickr.com/8490/8197650747_2edc05bd06_z.jpg" alt="T8"
+    /></a>
+  _oembed_2f8d356603f6d8ff4f50e68db3112b8a: <a href="http://www.flickr.com/photos/triplefivechina/8197647073"><img
+    src="http://farm9.staticflickr.com/8489/8197647073_d90c34d848_z.jpg" alt="T8"
+    /></a>
+  _oembed_dd8215d9cb4a17f9b29cf928a45a0c7b: <a href="http://www.flickr.com/photos/triplefivechina/8197646371"><img
+    src="http://farm9.staticflickr.com/8198/8197646371_2b2a5d7861_z.jpg" alt="T8"
+    /></a>
+  _oembed_254755175f4daee9ae2f37ac1175f513: <a href="http://www.flickr.com/photos/triplefivechina/8198737020"><img
+    src="http://farm9.staticflickr.com/8199/8198737020_f6f73bde0f_z.jpg" alt="T8"
+    /></a>
+  _oembed_81303a0b6c1c176b0fe78549db909714: <a href="http://www.flickr.com/photos/triplefivechina/8198741588"><img
+    src="http://farm9.staticflickr.com/8200/8198741588_66abf67f2d_z.jpg" alt="T8"
+    /></a>
+  _oembed_5a3843db7003e914d8fb85594b5ade38: <a href="http://www.flickr.com/photos/triplefivechina/8198742038"><img
+    src="http://farm9.staticflickr.com/8202/8198742038_20f995f672_z.jpg" alt="T8"
+    /></a>
+  _oembed_ebfd05fce5921e04d1818e06c17defc2: <a href="http://www.flickr.com/photos/triplefivechina/8197651083"><img
+    src="http://farm9.staticflickr.com/8481/8197651083_48eac231bd_z.jpg" alt="T8"
+    /></a>
+  _oembed_60ee89d15c6c88516be8303456bcb511: <a href="http://www.flickr.com/photos/triplefivechina/8198743242"><img
+    src="http://farm9.staticflickr.com/8341/8198743242_0a6705cc06_z.jpg" alt="T8"
+    /></a>
+  _oembed_9a829ba734fb6a4327172a36a3f49de4: <a href="http://www.flickr.com/photos/triplefivechina/8197650747"><img
+    src="http://farm9.staticflickr.com/8490/8197650747_2edc05bd06_z.jpg" alt="T8"
+    /></a>
+---
+T8 is one of those high-end restaurants you've heard of but haven't yet been. As an established, classy, probably expensive restaurant in Xintiandi it's certainly on the list.
+
+'One day' you'll think. Well the time is now. Behind Shanghai's firmly bricked aspirations for a modern future, there's a tender attention to gastronomic detail wrapped in upper-class style that makes T8 something really quite special.
+
+http://www.flickr.com/photos/triplefivechina/8197647073<br />
+<center><font size="1">sesame crusted seared tuna and rocket salad</font></center>
+
+My time came when a friend over at Enjoy Shanghai dropped off their 2013 membership card and an invite to lunch. T8's Executive set is a weighty RMB 328 for four courses of incredibly significant cuisine. For those looking for a lighter meal, they offer an RMB 168 Healthy Lunch. We took a couple hours and wandered down both paths.
+
+http://www.flickr.com/photos/triplefivechina/8197646371
+
+Sat at the low wooden bar around a pristine obsidian open kitchen, details stand out like shiny buttons on a shore-leave uniform. Over there columns of steam rise from woks set into recessed halogen rings. Over here a tray of blackened roasted peppers are being sieved for their juices. To the side onions are being diced with deft knife-play. All is being orchestrated by Executive Chef Jordi Servalls Bonilla whilst he prepares vacuum bags for a dose of scientific fusion.
+
+http://www.flickr.com/photos/triplefivechina/8198737020
+
+In the mean time a fillet of sesame crusted tuna is being sliced then laid atop a bed of fennel and cherry tomatoes. Married with a pesto reduction, each ingredient feels considered and this sets the theme for the following 90 minutes. It could be a halo-effect after watching the dish form right under our noses, or it could be that the fennel, sourced from a very particular suzhou farm, is exactly the right level of peppery to complement the robust fish. 
+
+http://www.flickr.com/photos/triplefivechina/8197647073<br />
+<center><font size="1">sesame crusted tuna, pesto sauce, wild leaves</font></center>
+
+Then arrives a plate of 'cured' fruit with a burrata and snow pea salad. Cubes of fruit have been infused with fruit gelatin in a vacuuming process, one of Jordi's molecular techniques. He's a huge fan of finer-detail methods, admitting that running a commercial kitchen is both a process of adaptation and opportunities to play with kitchen toys.
+
+http://www.flickr.com/photos/triplefivechina/8198741588<br />
+<center><font size="1">fruit and snow pea salad, tofu, ham, burrata, osmanthus aromatic vinaigrette</font></center>
+
+Amidst chuckles arrives an incredible example of the former. Atop a wooden board is a dream-like fold of raw angus beef wrapped around creamy rice like a meat-obsessive's birthday pancake. Served with a pate of porcini mushrooms it's almost godly and Jordi knows it as he beams over the counter. 'We love the ravioli concept here but why should it be so predictable?'.
+
+http://www.flickr.com/photos/triplefivechina/8198742038<br />
+<center><font size="1">porcini mushroom and and angus beef cream inverted rice</font></center>
+
+On the healthy side of the menu, T8 provides a less calorific series of dishes. From the smoked goose breast appetiser to the red snapper, dishes are less complex but no less lacking in consideration. If only there wasn't a couple handfulls of well seasoned angus within arms reach I'd be raving about succulent uncomplicated cuts of superior white fish.  
+
+http://www.flickr.com/photos/triplefivechina/8197651083<br />
+<center><font size="1">pan roasted red snapper, snow peas, lemon marmalade and edamame & raisin ragout</font></center>
+
+To finish what felt like an afternoon of chefs-table precision, we're handed our final degustation. The T8 black forest is a separation of the gateaux into it's rudimentary elements. It's visually curious and intriguing to taste, each mouthful requiring reconstruction before it resembles completeness. Much easier to comprehend is T8's other signature desert, the edible pina colada, a light, frothy, invigorating affair.
+
+http://www.flickr.com/photos/triplefivechina/8198743242<br />
+<center><font size="1">the T8 black forest</font></center>
+
+Hand shakes and knowing nods all round and proceedings come to an end. It's here that I admit T8 knew I was coming. Today my friends were involved and so this may not be a fully impartial review... however from the way this is high-end, Xintiandi and expensive... and booked most evenings... something tells me it's not a coincidence.
+
+http://www.flickr.com/photos/triplefivechina/8197650747
+More photos in the <a href="http://www.flickr.com/photos/triplefivechina/sets/72157632042536151/">gallery here</a>.
+
+Before we leave, I owe a shoutout to the folks over at <a href="http://enjoyshanghai.com/">Enjoy Shanghai</a>. Their yearly membership card grants offers and discounts at literally hundreds of places across town... including <a href="http://enjoyshanghai.com/shanghai-dining/directory/fusion/t8-_240.htm">this one</a> where you can get a two for one on weekend brunches and bottles of wine for books of 4 or more. Enough said!

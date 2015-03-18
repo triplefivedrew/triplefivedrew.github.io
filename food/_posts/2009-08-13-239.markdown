@@ -1,0 +1,62 @@
+---
+layout: post
+title: 'Review: Yin'
+date: 2009-08-13 22:35:34.000000000 +08:00
+image: /assets/post_images/food_covers/yin-full.jpg
+categories:
+- Reviews
+tags:
+- fusion
+- japanese
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  aktt_notify_twitter: 'no'
+  _thumbnail_id: '4994'
+  _live_tile_speed: '1000'
+  _live_data_stops: 0%,100%
+  _live_data_delay: '0'
+  _tile_img_front: http://192.73.233.49/wp-content/uploads/2013/02/yin-tile.jpg
+  _tile_img_back: ''
+  _list_img_front: http://192.73.233.49/wp-content/uploads/2013/02/yin-archive.jpg
+  _live_tile_mode: slide
+  _live_tile_dir: horizontal
+  _tile_size: medium
+  _tile_colour: themecolor
+  _tile_icon: quote-dark
+  _tile_colour_pick: none
+  _live_tile_check: 'off'
+  _live_data_stack: 'off'
+  _lightbox_check: 'on'
+  _colour_picker_check: 'off'
+  _tile_icon_check: 'off'
+  _tile_date_check: 'on'
+  _post_colour: themecolor
+  _post_colour_pick: none
+  _post_hyperlink: ''
+  _embed_field: ''
+  _embed_field_alt: ''
+  _video_poster: ''
+  _embed_width: ''
+  _embed_height: ''
+  _post_colour_picker_check: 'off'
+  _headspace_page_title: 'Review: Yin'
+  _headspace_description: ''
+author:
+  login: admin
+  email: electronicdrew@gmail.com
+  display_name: 555Drew
+  first_name: Drew
+  last_name: ''
+---
+Hengshan Lu, once referred to (by our estate agent!) as the Champs Elysees of Shanghai, is a road of expat bars and tacky western restaurants slicing up the otherwise haute French Concession.
+
+The stretch closest to our place, near Wulumuqi Lu, features a jungle-themed terrace bar, eurotrash nightclub, bland brazilian steak house, overpriced turkish kebab shop... and probably the best japanese restaurant in Shanghai.
+
+It's new to the area, in fact soft opening at the time of writing and has both a Japanese and Chinese menu. Par Le Garcon Chinois used to be in the grounds of a french mansion a stones thrown away and noted for it's escapist appeal. Here, up some stairs next to "1001 arabian nights shisha bar" and you're a million miles away from the tourists.
+
+Inside has a very well-dressed appeal (reminiscent of <a href="http://www.thehospitalclub.com/" target="_blank">The Hospital</a>), that has you nodding at the fixtures around the room in appreciation. In essence a super place to enjoy some excellent dishes, we could fault nothing from the miso, chilled tofu, chef's sashimi &amp; sushi selections to a perfectly cooked aubergine and bonito - quite the other end of the spectrum from <a href="http://www.triplefivedrew.com/?p=122">Tairyo</a>.
+
+A couple bottles of very well selected Spanish white later (thankyou) and without realizing it we were the only people left. The sign of a great restaurant.

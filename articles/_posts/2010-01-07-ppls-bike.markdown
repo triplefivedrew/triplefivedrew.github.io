@@ -1,0 +1,17 @@
+---
+layout: post
+title: ppls bike
+date: 2010-01-07 21:12:15.000000000 +08:00
+categories:
+- China
+tags: []
+
+image: /assets/post_images/article_covers/ppls-bike-full.jpg
+oneline: ''
+image-gallery:
+  -  url: /assets/post_images/dark_images/4249349503_04f6e5038c_z.jpg
+  -  url: /assets/post_images/dark_images/4249349485_c8a455d6da_z.jpg
+  -  url: /assets/post_images/dark_images/4249349493_e64351db24_z.jpg
+
+---
+<a href="http://www.tdbowa.com/">Tyler</a> at <a href="http://www.peoplesbike.com/">people's bike</a> took some photos of me a couple nights ago.

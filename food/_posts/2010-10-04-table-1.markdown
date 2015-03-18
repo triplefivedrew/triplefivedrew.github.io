@@ -1,0 +1,41 @@
+---
+layout: post
+title: Table No. 1
+date: 2010-10-04 21:15:29.000000000 +08:00
+image: /assets/post_images/food_covers/table-1-full.jpg
+oneline: ""
+show_details: yes
+name: ""
+website: ""
+tel: "021 "
+address_en: ""
+address_cn: "上海市"
+address_map: ""
+cuisine: ""
+stars: 4
+categories:
+- Food Articles
+tags:
+- food review
+- shanghai
+- South Bund
+- table no1
+- the waterhouse
+---
+Having enjoyed a few drinks on the roof terrace, it was about time to try <a href="http://www.triplefiveshanghai.com/?s=waterhouse&x=0&y=0">The Waterhouse's</a> Table No. 1.
+
+Seated at a table under a skylight which also serves as a guest-room window the restaurant is modest, airy and flanked by highly polished glass. We're it not for the rickshaw of plastic bottles parked outside we could be anywhere in the world reading the paper on a sunday afternoon.
+
+We were taken through Atherton's 'fusion' menu. Four British voices unashamedly ordering the roast hereford steak and chips. Whilst the waitstaff fussed awkwardly over drinks (the service has not quite picked up yet) we were brought a picturesque bread basket.
+
+<a href="http://www.flickr.com/photos/triplefivechina/5098955299/" title="Dainty bread basket" class="flickr-image alignnone" rel="flickr-mgr[tbl1]"><img width="500" src="assets/5098955299_334ec80be3_b.jpg" alt="Dainty bread basket" class="flickr-large" /></a>
+
+Picturesque too were the chopping boards on which the steaks came. It wasn't the english sunday roast fused with a tender fillet we imagined but the gravy added the necessary layer of flavour. They also somehow accidentally managed to add a virtually tasteless chunk of mushroom stem. Best ignored.
+
+<a href="http://www.flickr.com/photos/triplefivechina/5098953401/" title="Roast Steak" class="flickr-image alignnone" rel="flickr-mgr[tbl1]"><img width="233" src="assets/5098953401_34bd6439a5_b.jpg" alt="Roast Steak" class="flickr-large" /></a><a href="http://www.flickr.com/photos/triplefivechina/5099550544/" title="Frozen Coulis" class="flickr-image alignnone" rel="flickr-mgr[tbl1]"><img width="233" src="assets/5099550544_73294c7ef6_b.jpg" alt="Frozen Coulis" class="flickr-large" /></a>
+
+Deserts were dominated by a curiously refreshing but slightly uncomfortable Basil ice-cream that got passed around the table in the same way as a bar of chilli-chocolate would. Whilst we waited for the overly-frozen coulis to defrost we took a walk around the hotel to soak in the design - the real reason to come.
+
+<a href="http://www.flickr.com/photos/triplefivechina/5098948171/" title="The Waterhouse" class="flickr-image alignnone" rel="flickr-mgr[tbl1]"><img width="233" src="assets/5098948171_a353430e4a_b.jpg" alt="The Waterhouse" class="flickr-large" /></a><a href="http://www.flickr.com/photos/triplefivechina/5098949575/" title="Boutique Defined" class="flickr-image alignnone" rel="flickr-mgr[tbl1]"><img width="233" src="assets/5098949575_fd54b3c0ed_b.jpg" alt="Boutique Defined" class="flickr-large" /></a>
+
+Table No. 1. Not the tour-de-force it could have been but to be honest, was about as good as we expected.

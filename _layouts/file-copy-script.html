@@ -1,0 +1,31 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body itemscope itemtype="http://schema.org/Article">
+    {% include header.html %}
+    <main class="content" role="main">
+      <article class="post">
+        {% include header-block.html %}
+        <section class="post-content" style="padding: 150px 0 0 0">
+          <a name="topofpage"></a>
+          <div style="color: #FFFFFF;">
+            {% for post in site.posts %}
+              {% if post.image-gallery %}
+                {{ post.title }}<br />
+                {% for image in post.image-gallery %}
+                  <!-- img width="35px" height="35px" src="{{ post.image }}">&nbsp; -->
+                  sudo curl -O {{ image.url }}
+                  <br />
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </section>
+        </div>
+      </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

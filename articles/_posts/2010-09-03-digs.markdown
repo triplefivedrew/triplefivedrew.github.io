@@ -1,0 +1,32 @@
+---
+layout: post
+title: The old digs
+date: 2010-09-03 17:30:36.000000000 +08:00
+categories:
+- Elsewhere
+tags:
+- bethnal green
+- hackney
+- home
+- london
+- photography
+
+oneline: Photos from all the places we lived in over 6 years in London's East End.
+
+image: /assets/post_images/article_covers/the-old-digs-full.jpg
+image-gallery:
+  -  url: /assets/post_images/dark_images/4978617279_05886ed6b3_z.jpg
+     caption: Shore Road
+  -  url: /assets/post_images/dark_images/4978613279_74cbca91dd_z.jpg
+     caption: Wilmot Street
+  -  url: /assets/post_images/dark_images/4979218954_4d802a39f1_z.jpg
+     caption: St Matthews Row
+  -  url: /assets/post_images/dark_images/4979216584_d5c57f0811_z.jpg
+     caption: The Bath House
+---
+Only after being in China for a year do I really appreciate London's diversity. For living, we concentrated on one area, E2. At the beginning we were pioneers, "I don't understand why you guys want to live here" said our first landlord, "I bought this building for £100k and didn't expect to get it back". Now look at it, all grown up! (again)
+
+We did a tour of the east end via the two miles covering every place we lived in over seven years.
+
+The Bath House > St Matthew's Row > Wilmot Street > Shore Road.
+

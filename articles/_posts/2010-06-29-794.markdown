@@ -1,0 +1,40 @@
+---
+layout: post
+title: The UK Pavilion
+date: 2010-06-29 17:42:08.000000000 +08:00
+categories:
+- China
+tags:
+- expo
+- heatherwick
+- pavilion
+- seed cathedral
+- sitooterie
+- uk
+image: /assets/post_images/article_covers/uk-pavilion-full.jpg
+oneline: 'A tour of the seed cathedral'
+image-gallery:
+  -  url: /assets/post_images/dark_images/4737824052_dd3361f859_z.jpg
+     caption: Seed Grid
+  -  url: /assets/post_images/dark_images/4737196933_8571f6bee0_z.jpg
+     caption: Regents Park
+  -  url: /assets/post_images/dark_images/4737844354_3c73c4840b_z.jpg
+     caption: Cryogenics
+  -  url: /assets/post_images/dark_images/4737840098_32605c4195_z.jpg
+     caption: Seed Encapsulation
+  -  url: /assets/post_images/dark_images/4737834940_068d872963_z.jpg
+     caption: Interior Undulation
+  -  url: /assets/post_images/dark_images/4737191619_0b628500dd_z.jpg
+     caption: British Pavilion
+---
+There was no better time than on a wet and miserable Sunday afternoon to visit the British Pavilion at the <a href="http://www.triplefivedrew.com/?p=784">Expo</a>.
+
+Having successfully wangled our way into a few pavilions with our EU VIP passes (and successfully being denied entry to the German Pavilion by a clipboard wielding german-chinese-robot-woman), it was a particular pleasure to flash a UK passport and be whisked through the VIP entrance by a jovial and quintessentially British host. We made small-talk about the weather and Cameron before being ushered through a gate bypassing the three hour queue. Marvellous.
+
+The British Pavilion truly is marvellous. <a href="http://www.heatherwick.com/">Heatherwick</a> has upgraded his Belsay and <a href="http://en.wikipedia.org/wiki/File:Sitooterie_II,_Barnards_Farm,_West_Horndon.jpg">Barnards Farm</a> Sitooterie into a 6 story high "Seed Cathedral" - a porcupine-like cube of some few-thousand needles.
+
+Inside is a cave-like room of undulating walls formed from the inner-ends of the needles, each flares out slightly to encase the seed of a plant or flower seed. The sheer volume of points of light, like looking into a million microscopes at the same time and their non-digital repetition is delicious in comparison to the LCD heavy onslaughts in most pavilions.
+
+A path spirals up around to the entrance of the strucure, showing along the way, The UK's relationship between cities and green spaces (the concept of the Pavilion being bringing parks into the urban environment)
+
+There's no restaurant, no gift shop and the EXPO passport stamp is tied to a little table with a piece of twine. It's all about the undulating grey and red astro-turf park on which sits the seed cathedral.

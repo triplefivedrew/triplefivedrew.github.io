@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'F5100, Jacob'
+image: /assets/post_images/article_covers/5100-jacobo-full.jpg
+date: 2013-03-11 10:46:26.000000000 +08:00
+categories: []
+tags:
+- bike porn
+- custom
+- F5100
+- factory five
+- fixed gear
+- fixie
+- shanghai
+- track frame
+oneline: Every so often a build comes around at Factory Five that I love.
+image-gallery:
+  -  url: /assets/post_images/dark_images/8544448941_71660a7895_z.jpg
+  -  url: /assets/post_images/dark_images/8544454203_d422f081ac_z.jpg
+  -  url: /assets/post_images/dark_images/8544452871_d13330783f_z.jpg
+  -  url: /assets/post_images/dark_images/8545549134_4cd43c4f3e_z.jpg
+  -  url: /assets/post_images/dark_images/8544453687_c7f8e9f591_z.jpg
+---
+Every so often a build comes around at Factory Five that I love. Actually, this happens quite a lot... we try to steer people away from circus bikes.
+
+This is up there in my absolute favorites, assembled around the F5100 frame it packs a heap of top-shelf goodies into an 8kg build. It's dark, stealthy, obsidian and that high-gloss smooth-weld finish is pristine.
+
+more info <a href="http://wearefactoryfive.com/portfolio/f5100-jacob/">here</a>.
+

@@ -1,0 +1,44 @@
+<section class="detail-info">
+  <div style="clear: both" class="detail-info {% if page.image-gallery %}wide{% else %}standard{% endif %}">
+    <div class="isLeft">
+      <ul>
+        {% if page.name %}<li>{{ page.name }}</li>{% endif %}
+        {% if page.website %}<li><a target="_new" href="{{ page.website }}">Homepage</a></li>{% endif %}
+        {% if page.tel %}<li>{{ page.tel }}</li>{% endif %}
+        <br />
+        {% if page.address_en %}
+          <li>
+            {{ page.address_en }}
+            {% if page.address_map %}
+              <a href="https://maps.google.com/maps?q={{ page.address_map | uri_escape }}">
+                [map]
+              </a>
+            {% endif %}
+          </li>
+        {% endif %}
+        {% if page.address_cn %}<li>{{ page.address_cn }}</li>{% endif %}
+        <br />
+        {% if page.cuisine %}<li>{{ page.cuisine }}</li>{% endif %}
+        {% if page.stars %}
+        <li>
+          {% for i in (1..5) %}
+            {% if page.stars >= i %}
+              &#9733;
+            {% else %}
+              &#9734;
+            {% endif %}
+          {% endfor %}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+      {% if page.address_map %}
+        <div class="isRight">
+          <div class="mapnozoom" onClick="style.pointerEvents='none'"></div>
+            <iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAUqKZq8UnCth_nKLFKaabgZYpq_p6wS0I&q={{ page.address_map | uri_escape }}&zoom=15">
+            </iframe>
+          </div>
+      {% endif %}
+    <div style="clear: both"></div>
+  </div>
+</section>

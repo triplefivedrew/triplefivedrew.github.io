@@ -1,0 +1,21 @@
+---
+layout: post
+title: Jiaozi
+date: 2010-01-01 23:17:24.000000000 +08:00
+categories:
+- China
+tags:
+- dumplings
+- home made
+
+image: /assets/post_images/article_covers/jiaozi-full.jpg
+oneline: ''
+image-gallery:
+  -  url: /assets/post_images/dark_images/4233830140_f9cb789bf8_z.jpg
+  -  url: /assets/post_images/dark_images/4233836034_53402b2429_z.jpg
+  -  url: /assets/post_images/dark_images/4233069655_118d39e32b_z.jpg
+---
+Jiaozi are delicious. Not to be confused with wonton, huntun, xiaolongbao, shumai or gyoza... jiaozi are parcels of chinese goodness wrapped in flour-paper skins and flash boiled. These dumplings, if prepared well, provide the most simple and fresh taste in Chinese cuisine.
+
+Our first attempt took a couple hours but turned out just right. We made pork, tofu/vegetable and pumpkin fillings, creating the skins from scratch...
+
