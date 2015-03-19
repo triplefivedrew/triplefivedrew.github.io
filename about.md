@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-In 2009 I gave up a cushy number in London’s advertising scene and moved to Shanghai to test the senses in another corner of the world. I write mostly about photography, fixed gear rolling, food and getting knee deep in China’s super-city. I’m a simple animal; give me a couple wheels and a pair of chopsticks and we’re off.
+I came to Shangahi in 2009. Five years puts me directly in the category of been here long enough to scratch the surface but not so long that I've gone full native and forgotten where the surface is.
 
 I founded and partner [Factory Five][Factoryfive], write pretty regularly about restaurants for Cityweekend, have one architect… and three cats.
 

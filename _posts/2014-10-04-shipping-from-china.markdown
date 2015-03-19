@@ -23,9 +23,9 @@ In truth, it is a massive ballache:
 
 2) Shipping agents in China are almost entirely useless. They'll not show up some days. They'll never give you an up front price. They'll rarely follow up with tracking codes and you'll be left wondering if they're providing an actual service or not.
 
-3) Shippers at country borders love to chuck stuff around. We see it when suppliers deliver boxes to us by dragging them behind their scooter. Thank god we are now being charged based on potential volume because we're adding 2KG of padding to every frame. Customs are the worst, they inspect boxes using a crowbar.
+3) Shippers at country borders love to chuck stuff around. We see it when suppliers deliver boxes to us by dragging them behind their scooter. Thank god we are now being charged based on potential volume because we're adding 2KG of padding to every frame.
 
-4) On Customs... they are the unseen dickheads. They'll impose new restrictions unnaounced like 'everything from this depot will be ignored for 2 days because a recent package was found to be illegal. Also, their fee application process follows absolutely no loglc and is impossible to model.
+4) On Customs... they are the unseen dickheads. They'll impose new restrictions unnaounced like 'everything from this depot will be ignored for 2 days because a recent package was found to be illegal'. Also, their fee application process follows absolutely no loglc and is impossible to model.
 
 5) Items rarely get lost. Instead they slip off the radar for a few days until you chase every day for a week. Then they pop into existence and carry on their journey.
 

@@ -21,4 +21,4 @@ Sounds great. Except when actual geographical distance gets in the way. It certa
 
 Which is why we need to develop channels to smoothly roll our products out to where they're going to be going. Essentially this means warehousing or distributing in popular or far away locations; i.e. Europe, USA, Russia. We need to arrange a basket of products which is big enough to economize on shipping but small enough that it doesn't start to incur additional costs such as storage or big-box leakage (items in large volumes have a tendency to grow legs!).
 
-It's no easy task, predicting what the market might want, positioning and getting it to them. Actually what we need is a man on the ground at each location who understands all this. Step in the retailer.
+It's no easy task, predicting what the market might want, positioning and getting it to them. Actually what we need is a man on the ground at each location who understands all this. Would be great if he had some tools and could service our customers too. Step in the retailer.
