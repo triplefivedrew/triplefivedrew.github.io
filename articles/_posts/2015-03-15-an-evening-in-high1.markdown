@@ -3,7 +3,7 @@ layout: post
 title: An Evening in High1
 oneline: "Apres Ski in Korea's best resort"
 date: 2015-03-15 20:54:44.000000000 +08:00
-excerpt: 
+excerpt: A couple weeks ago, whilst all of China was celebrating the new year, we snuck off to Korea in a celebration of our own. <br /> <br >We've been to High1 before. By all accounts, it's Korea's best resort. Four hours drive from Seoul, High1 features nice, long, wide runs and famously good snow.
 categories:
 - China
 tags:
@@ -27,7 +27,7 @@ image-gallery:
 ---
 A couple weeks ago, whilst all of China was celebrating the new year, we snuck off to Korea in a celebration of our own.
 
-We've been to High1 before. By all accounts, it's Korea's best resort. Four hours drive from Seoul, High1 features nice, long, wide runs and famously good snow. A few years ago we came to High1 and spent a few days but so much has happened since then that I could barely rememnber anything. I suppose this is one of the virtues of having a terrible memory for details... getting to enjoy things for the second time with only a rediscoverable recolation of the highlights.
+We've been to High1 before. By all accounts, it's Korea's best resort. Four hours drive from Seoul, High1 features nice, long, wide runs and famously good snow. A few years ago we came to High1 and spent a few days but so much has happened since then that I could barely remember anything. I suppose this is one of the virtues of having a terrible memory for details... getting to enjoy things for the second time with only a rediscoverable recolation of the highlights.
 
 {% include images-strip.html images-here='2' size='inline' %}
 
