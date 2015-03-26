@@ -3,7 +3,7 @@ layout: post
 title: The Sifang Art Project, Nanjing
 oneline: How China approaches dream-team showcase architecture
 date: 2015-02-20 20:54:44.000000000 +08:00
-excerpt: Imagine a secluded retreat nestled in a forest. Scattered amongst the trees and petite valleys are a dozen houses designed by big-name, award winning architects. <br><br> They're each a self-contained home, with distinct character and materials, available for rent for a group getaway. Now invoke this image in China on the outskirts of Nanjing.
+excerpt: Imagine a secluded retreat nestled in a forest. <br /><br />Scattered amongst the trees and petite valleys are a dozen houses designed by big-name, award winning architects. <br><br> They're each a self-contained home, with distinct character and materials, available for rent for a group getaway. Now invoke this image in China on the outskirts of Nanjing.
 categories:
 - China
 tags:
@@ -76,7 +76,9 @@ image-gallery:
   -  url: /assets/post_images/sifang/Sifang_Art_Museum_Nanjing_030.jpg
      caption: Fart Art
 ---
-Imagine a secluded retreat nestled in a forest. Scattered amongst the trees and petite valleys are a dozen houses designed by big-name, award winning architects. They're each a self-contained home, with distinct character and materials, available for rent for a group getaway.
+Imagine a secluded retreat nestled in a forest.
+
+Scattered amongst the trees and petite valleys are a dozen houses designed by big-name, award winning architects. They're each a self-contained home, with distinct character and materials, available for rent for a group getaway.
 
 Now invoke this image in China on the outskirts of Nanjing. Include an art gallery, conference center and more accomodation. Make it so big that it takes 10 years to reach 80% completion and runs up a $160m bill. Construction slows to almost dormant. Open the park for viewing anyway; warts and cranes and beauty.
 
