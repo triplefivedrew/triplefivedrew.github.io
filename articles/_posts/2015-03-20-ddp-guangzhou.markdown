@@ -14,18 +14,18 @@ tags:
 - dongdaemun
 - zaha
 - hadid
-image:  /assets/post_images/seoul_ddp/DDP_Seoul_011.jpg
+image:  /assets/post_images/seoul_ddp/DDP_Seoul_005.jpg
 image-gallery:
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_001.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_002.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_003.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_004.jpg
-  -  url: /assets/post_images/seoul_ddp/DDP_Seoul_005.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_006.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_007.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_008.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_009.jpg
   -  url: /assets/post_images/seoul_ddp/DDP_Seoul_010.jpg
+  -  url: /assets/post_images/seoul_ddp/DDP_Seoul_011.jpg
 ---
 Large scale public architecture is a real hoot. Every city in the world is waking up to the magnetism of a cultural, functional landmark designed by an archtectural super star. Thanks to Zaha Hadid's recent addition, Seoul is right up there on the list.
 
