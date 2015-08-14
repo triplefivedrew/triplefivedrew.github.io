@@ -64,6 +64,8 @@ The menu (French) is not out-faced by the environment either. 2 Fois Gras starte
 
 Up until my first visit the taste of good steak carried fond memories of Argentine Parillas. The Scottish Fillet here has ruined this for good. In replacement, out of spite, I have ordered the same every time. Fortunately the menu changes once in while with revisions to the small vegetable offerings (progress... according to the wait staff) Even more fortunately on this occasion the special was a 350 gram sirloin, larger, juicier and almost as tender, however accompanied by a slightly too rich dressing. The rest of the menu is surely up for exploration and don't forget to save room for desert.
 
-Les Trois Garcons is a popular celebrity-endorsed venue, don't expect a table this week and it's obvious why. It represents the money-for-old-rope success outsiders think of the east end and exactly what insiders are here for - gems in the rough.<br />Context, ambiance, service, presentation, food this restaurant unconventionally has all the fives and is worthy of my vote for No1...
+Les Trois Garcons is a popular celebrity-endorsed venue, don't expect a table this week and it's obvious why. It represents the money-for-old-rope success outsiders think of the east end and exactly what insiders are here for - gems in the rough.
+
+Context, ambiance, service, presentation, food this restaurant unconventionally has all the fives and is worthy of my vote for No1...
 
 <span style="color:rgb(153,153,153);font-size:78%;">Les Trois Garcons<br />1 Club Row<br />London E1 6JX (<a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;amp;q=E1+6JX&amp;ie=UTF8&amp;z=16&amp;om=1&amp;iwloc=addr">map</a>)<br />+44 (0)20 7613 1924<br /><a href="http://www.lestroisgarcons.co.uk/">http://www.lestroisgarcons.co.uk/</a></span>
