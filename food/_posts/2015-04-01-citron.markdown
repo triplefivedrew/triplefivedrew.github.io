@@ -1,0 +1,29 @@
+---
+date:   2015-04-17 15:34:25
+layout: post
+title:  "Review: Citron"
+oneline: "We had high hopes for Citron."
+show_details: yes
+name: "Citron"
+tel: "021 6121-2606"
+address_en: "1F, 291 Fumin Lu (near Changle Lu)"
+address_cn: "富民路291号1楼 (近长乐路)"
+address_map: "291 Fumin Rd, Shanghai"
+cuisine: "European"
+stars: 3
+categories:
+- Reviews
+tags: european cafe
+image: /assets/post_images/citron/citron.jpg
+---
+Given its killer location, spacious terrace and tasteful décor, we had high hopes for Citron. On a balmy Shanghai night at the corner of Fumin Lu and Changle Lu, what could be better than enjoying a European sidewalk café-style feast with dip selections, salads, sandwiches and pizzas? 
+
+A row of jars containing a choice of dips served with raw vegetable sticks and tortilla chips (RMB58) seemed somehow air-filled and lacking punch. We couldn’t pick a winner amongst hummus, guacamole, sundried tomato and tzatziki. Each felt like they were lacking a key herb or spice to bring them to life.
+
+A bacon, lettuce, avocado and tomato toasted ciabatta (RMB55) oozed with cheese but delivered a series of limited mouthfuls with underwhelming bread. It’s a grand example of where the core ingredients needed to shine but didn't. 
+
+A couple of tortilla pizzas, while fairly loaded, didn’t rectify the situation. Both the wild mushroom (RMB58) and roast pumpkin (RMB58), which were served on top of rounds of grilled flat bread that had a nice crunch, felt too much like plays from a quick and easy home cooking recipe book. 
+
+Redeeming selections were Citron’s salads. For RMB50, you'll receive a chopping board loaded with four of their daily prepared concoctions. On our visit, generously-portioned salads of beetroot, orzo, woodear mushroom and cherry tomato finely balanced the ingredients and dressing. 
+
+Citron has the potential to be the new go-to eatery on the block to soak in the sounds and flavors of a city in motion. However, those particular flavors of Shanghai might have overpowered the food. 

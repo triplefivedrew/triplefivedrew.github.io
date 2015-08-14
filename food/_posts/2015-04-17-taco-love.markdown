@@ -1,0 +1,31 @@
+---
+date:   2015-01-17 15:34:25
+layout: post
+title:  "Review: Taco Love"
+oneline: "A level of taste and distinctiveness that many mall eateries struggle to achieve"
+show_details: yes
+name: "Citron"
+tel: "021 6333-8969"
+address_en: "Unit 706, Mosaic, 353 Nanjing Dong Lu (near Jiujiang Lu)"
+address_cn: "南京东路353号悦荟广场7楼706 (近九江路)"
+address_map: "353 Nanjing East Rd Shanghai"
+cuisine: "Tex Mex"
+stars: 3
+categories:
+- Reviews
+tags: tax-mex
+image: /assets/post_images/taco-love//taco-love.jpg
+---
+Taco Love accomplishes a level of taste and distinctiveness that many mall eateries struggle to achieve. This is especially commendable considering the cuisine. Good taqueria food is not an easy feat to pull off.
+
+Despite their simplicity, tacos encompass layers of well prepared produce, piquant flavors and fresh garnish in hand-sized tortillas. Taco Love's delivered the whole package. Stewed pork al pastor (RMB25 each) and steak carne asada (RMB30 each) both had the requisite meat tenderness and tang alongside crisp, fresh salad to make an authentic series of bites.
+
+A prawn and tequila taco (RMB30 each) added more complexity with a juicy, fiery bundle of grilled shrimp. The best was the baja fish taco (RMB30 each) with golden fried fish, salsa and shredded lettuce, which tasted effortlessly good. 
+
+At this price they're a little on the expensive side, though they are slightly larger than at a couple of other places in town and we're guessing combo options will make it onto the menu before long.
+
+Elsewhere Taco Love neatly covers the Tex-Mex spectrum with one or two dishes from each discipline. A trio of tamarind-soaked spare ribs (RMB48) had impressive sticky-sweet succulence but were perhaps too small. Better value and keeping it traditional were the grilled quesadillas (RMB38), with chicken or beef and stringy cheese sandwiched between two tortillas. Served in a cute cloth basket which somehow belies the fire inside, it's definitely one for heat lovers.
+
+Finishing off with a smooth bowl of guacamole (RMB48) and a Corona, we feel a slight disconnect: The restaurant is too well-styled for a taqueria. 
+
+Taco Love may have the goods but can it deliver the whole authentic experience from the top floor of an unfinished mall located on the Nanjing Lu Pedestrian Street? Only time will tell.
