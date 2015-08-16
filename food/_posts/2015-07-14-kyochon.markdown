@@ -14,7 +14,7 @@ stars: 5
 categories:
 - Reviews
 tags: korean fried chicken
-image: /assets/post_images/kychon/kyochon.jpg
+image: /assets/post_images/kyochon/kyochon.jpg
 ---
 With more than a thousand outlets in Korea, the U.S. and Southeast Asia, Kyochon serves some of the finest chicken wings on the planet. Through a blend of proprietary cooking methods and strong food standards, they offer the market-defining standard in Korean fried chicken.
 
