@@ -1,0 +1,29 @@
+---
+date:   2015-05-12 15:34:25
+layout: post
+title:  "Review: Ola"
+oneline: "A level of taste and distinctiveness that many mall eateries struggle to achieve"
+show_details: yes
+name: "Ola"
+tel: "021 5276-2772"
+address_en: "1105 Wuding Lu (near Yanping Lu)"
+address_cn: "武定路1105号(近延平路)"
+address_map: "1105 Wuding Rd Shanghai"
+cuisine: "Portuguese"
+stars: 3
+categories:
+- Reviews
+tags: bar sports portuguese
+image: /assets/post_images/ola/ola.jpg
+---
+With a great location and comfortable layout, It’s no surprise that every table at OLA's terrace was full on a balmy evening. Inside, the restaurant is sports oriented. There are huge screens on every wall, foosball on offer, and plenty of high tables.
+
+This slightly odd mix of styles extends to the menu. A diverse selection of options ranges from classic Portuguese dishes to burgers and Tex-Mex. We had a hard time constructing a meal, and opted to graze mainly through the Portuguese dishes on offer.
+
+An escalibada (RMB45) is a Catalan dish comprising of roasted eggplant, peppers and anchovies served together in a ratatouille-like blend. It has powerful flavor, thanks to the full-bodied vegetables and salty fish. This petite bowl has just enough punch without being overpowering.
+
+The beef carpaccio (RMB75) was more palate friendly, with light swathes of melt-in-your-mouth beef served on a bed of greens. Unfortunately, OLA’s caldeirada (RMB98) failed to deliver in flavor or content. This classic Portuguese fish stew was slightly too rubbery and watery.
+
+One of OLA’s Portuguese dishes did shine. The serradura (RMB28) with crushed Madeira biscuits and layers of whipped cream was delicious.
+
+Perhaps OLA’s strong point is in their desserts and drinks, which are best enjoyed while relaxing on its beautiful terrace.

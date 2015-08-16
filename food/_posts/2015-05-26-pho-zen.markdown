@@ -1,0 +1,29 @@
+---
+date:   2015-05-26 15:34:25
+layout: post
+title:  "Review: Pho Zen"
+oneline: "We’ll be coming back here whenever pho comes to mind"
+show_details: yes
+name: "Pho Zen"
+tel: "131-6107-0713"
+address_en: "89 Jiashan Lu (near Yongkang Lu)"
+address_cn: "嘉善路89号(近永康路)"
+address_map: "89 Jiashan Rd Shanghai"
+cuisine: "Vietnamese"
+stars: 4
+categories:
+- Reviews
+tags: tax-mex
+image: /assets/post_images/pho-zen/pho-zen.jpg
+---
+A healthy offering on the fringe of Shanghai’s most infamous strip of gastronomic debauchery, Pho Zen Bistro Bar is a low-key jewel at a decent price.
+
+This tiny, simple dining room doesn’t feel out of place on Jiashan Lu, a stone’s throw away from the bustling Yongkang Lu. Surrounded by green grocers and rattan peddlers, this section of the neighborhood feels more local. Only in recent years would the idea of a decent bowl of pho anywhere nearby even cross our minds.
+
+The pho (RMB36-48) in question is rather good. It comes loaded with rare beef slices, tendon, brisket or meatballs while the house special includes a mixture of everything.
+
+Our bowl of rare beef slices (RMB42) was large and served with the prerequisite mound of bean sprouts, Thai basil, peppers and lime. Inside, the stock is just on the right side of hearty and sweet without overpowering the carpaccio-thin slices of beef and delicate noodle. It feels healthy and rewarding, and would need to be matched against an authentic bowl served on the streets of Vietnam for the imperfections to truly stand out. At this price point, there are few other contenders in Shanghai.
+
+A bowl of minced pork bun vermicelli (RMB36) was substantial as well. The cold noodles mixed inside the bowl with fresh vegetables, ginger and sautéed pork amounted to a series of fresh mouthfuls. It packs a zestier but less intense punch, delivering the essence of Vietnamese cuisine.
+
+Accompanied by a refreshing plate of minced pork spring rolls (RMB24) and a trio of earnest but slightly dry fish cakes (RMB24), the result is a generally well-rounded meal in one of the most popular parts of the city among expats. We’ll be coming back here whenever pho comes to mind.

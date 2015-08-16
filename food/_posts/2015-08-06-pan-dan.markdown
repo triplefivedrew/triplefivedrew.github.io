@@ -1,0 +1,27 @@
+---
+date:   2015-08-06 15:34:25
+layout: post
+title:  "Review: Pan Dan"
+oneline: "Like most good Thai restaurants, Pan Dan delivers the core spectrum of Thai cuisine."
+show_details: yes
+name: "Pan Dan"
+tel: "021 6258-0856"
+address_en: "Unit 03-03A, 5/F, Crystal Galleria, 68 Yuyuan Lu (near Changde Lu)"
+address_cn: "愚园路68号5楼03&03A (近常德路)"
+address_map: "68 Yuyuan Rd Shanghai"
+cuisine: "Thai"
+stars: 3
+categories:
+- Reviews
+tags: thai mall
+image: /assets/post_images/pan-dan/pan-dan.jpg
+---
+Pan Dan offers a comprehensive and modern take on one of the world’s most treasured cuisines, and is sure to reward those who play it safe.
+
+The restaurant is located on the fifth floor of Crystal Galleria, one of Shanghai's shiniest and newest shopping centers. On first impression, Pan Dan feels a little wedged into the space, though that doesn’t stop the crowds from queuing for tables.  
+
+Like most good Thai restaurants, Pan Dan delivers the core spectrum of Thai cuisine, with a few modern twists on top. We kept it classic for appetizers, tucking into a generous handful of chicken satay skewers (RMB68) served with a deliciously rich peanut sauce. A plate of stir-fried minced pork and eggplant (RMB48) showcased the flavors and textures of the two main ingredients by slow-cooking them in plenty of fish oil.  
+
+While the fried sea bream (RMB98) was robust and succulent, it felt a little one-dimensional and was drenched in a sweet soy sauce. Thai food is about bringing together fresh ingredients, zesty herbs and spices and tenderly cooked meats. With fatty, over tenderized beef and too-salty vegetables, the beef rib (RMB118) felt bland. We wish we’d opted for a green curry or two. Fortunately, a couple of lemongrass and tamarind flavored juice (RMB32) injected a little flavor to the meal.
+
+As with many Southeast Asian restaurants we've been to in Shanghai, Pan Dan's starters fared better than its core mains. As far as Thai restaurants go, there may be better options across town. However, for a holistic Thai experience right in the middle of Jing'an, Pan Dan is worth considering.

@@ -14,7 +14,7 @@ stars: 3
 categories:
 - Reviews
 tags: tax-mex
-image: /assets/post_images/taco-love//taco-love.jpg
+image: /assets/post_images/taco-love/taco-love.jpg
 ---
 Taco Love accomplishes a level of taste and distinctiveness that many mall eateries struggle to achieve. This is especially commendable considering the cuisine. Good taqueria food is not an easy feat to pull off.
 

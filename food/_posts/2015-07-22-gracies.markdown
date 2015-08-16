@@ -1,0 +1,31 @@
+---
+date:   2015-07-22 15:34:25
+layout: post
+title:  "Review: Gracie's"
+oneline: "A clean, almost clinical café that serves simple food and sweet treats"
+show_details: yes
+name: "Gracie's"
+tel: "021 5465-1259"
+address_en: "204 Xinle Lu (near Donghu Lu)"
+address_cn: "新乐路204号(近东湖路)"
+address_map: "204 Xinle Rd Shanghai"
+cuisine: "Ice Cream"
+stars: 3
+categories:
+- Reviews
+tags: ice-cream lasagne cafe
+image: /assets/post_images/gracies/gracies.jpg
+---
+Gracie's is a clean, almost clinical café that serves simple food and sweet treats, including a rather unique selection of soft scoop ice cream.
+
+Ice cream shops in Shanghai are often limited to big chains and corner stores. Gracie’s has arrived to fill the gap with an assortment of freshly made flavors served by the scoop. Despite going there for dinner, we couldn’t help but start with one or two free sample spoons of an incredibly tart passion fruit, smooth sweet mango, and indulgently rich cookie dough. Prices are as you’d expect for the Donghu Lu area, starting around RMB30 per scoop.
+
+It’s a surprise that their ice cream counter is not more prominent in the store. Instead, it is located near the back, halfway along their café display, which features a range of salads, pastas and sandwiches. The dishes are taken from their sister location, House of Lasagna, and all feel competent.
+
+Of the three types of lasagna available, the Wagyu beef classic (RMB85) with layers of hearty ground beef and béchamel between sheets of pasta was good but not a knockout, lacking the depth of a generously prepared and slow baked lasagna.
+
+Accompanied by an overly leafy and tart avocado & quinoa salad (RMB45), it’s apparent that Gracie’s strong suit is in their desserts -- which take up the lion’s share of the menu.
+
+We barely had room for dessert so avoided their gargantuan banana split (RMB128) and instead tucked into a trio of light pancakes with fresh mango and coconut ice cream (RMB78).
+
+At these prices and with an almost too-stark interior, Gracie’s is probably best used for satiating an ice cream craving.

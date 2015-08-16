@@ -1,0 +1,29 @@
+---
+date:   2015-07-21 15:34:25
+layout: post
+title:  "Review: Oreno"
+oneline: "A reasonably priced menu of French-Italian cuisine at breakneck speed"
+show_details: yes
+name: "Oreno"
+tel: "021 6329-6268"
+address_en: "No. 16 Xintiandi, 181 Taicang Lu (near Madang Lu)"
+address_cn: "太仓路181弄16号(近马当路)"
+address_map: "181 Taicang Rd Shanghai"
+cuisine: "Italian"
+stars: 3
+categories:
+- Reviews
+tags: italian pizza xintiandi
+image: /assets/post_images/oreno/oreno.jpg
+---
+Dining curbside on Xintiandi’s main drag is always hectic. Oreno is a new kid on the block that takes the experience one step further by offering a reasonably priced menu of French-Italian cuisine at breakneck speed.
+
+Oreno is already a successful brand across Japan and has recently expanded its reach to Hong Kong and Shanghai. Ignoring the hype about standing tables and Michelin stars (the actual tagline from Oreno’s Japanese owner is “Michelin for the Masses”), we took our seats on the slender terrace to watch the world go by. It seemed only appropriate to let it flow a little more smoothly with a crisp glass of Sauvignon Blanc (RMB45) while perusing the menu.
+
+A small bowl of cherry tomato and mozzarella caprese salad (RMB35) and a plate of rock salt lathered beef fillet slice (RMB88) were a duo of robust starters. They both played second fiddle to a slender half-fillet of very lightly smoked salmon with capers (RMB65), which delivered luxurious seafood with the delicacy of Japanese sushi.
+
+Mains also represented a slight tipping of balance with classic and unique dishes in representation. A four-cheese pizza (RMB65) had plenty of ingredients but not quite the base or flavor of better offerings across town. A plate of rolled pork (RMB130) was hearty and tender but slightly too fatty for our liking.
+
+The star of the meal was a huge bowl of crab linguini (RMB70), which came with a couple of crab claws tossed into a tumultuously rich tomato base.
+
+The service was a little shaky during the restaurant’s soft opening, with dishes and drinks arriving sporadically from all angles. With no reservations after 7PM and a strict last orders at 9PM, we can only assume that’s the price to pay for running a high volume restaurant in this neighborhood.

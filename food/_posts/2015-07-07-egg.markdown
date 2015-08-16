@@ -1,0 +1,28 @@
+---
+date:   2015-06-09 15:34:25
+layout: post
+title:  "Review: EGG"
+oneline: "Will there be enough fans to keep it full on weekend mornings?"
+show_details: yes
+name: "EGG"
+address_en: "12 Xiangyang Bei Lu (near Julu Lu)"
+address_cn: "襄阳北路12号(近巨鹿路)"
+address_map: "12 Xiangyang North Rd Shanghai"
+cuisine: "American"
+stars: 3
+categories:
+- Reviews
+tags: brunch
+image: /assets/post_images/egg/egg.jpg
+---
+Opened by Shanghai Supperclub’s Camden Hauge, Egg is a clean and welcoming café that offers a handful of breakfast and lunch options with Asian and Western influences. What ties them all together is the café’s namesake ingredient. For RMB10 extra, each item may be enhanced with an egg, prepared in a way befitting to the dish.
+
+Our shakshuka (RMB55), a thin but herbaceous tomato soup with onion and edamame, would have been underwhelming without the poached egg, and could be finished in two slurps. Since the egg is the core ingredient of a true Israeli shakshuka, paying an extra RMB10 feels more like a stretch.
+
+A simple slice of avocado toast (RMB55) offers nothing more than rye bread with well-executed toppings; it delivered the essence of satisfaction from enjoying something simple.
+
+Egg’s okonomiyaki (RMB45) feels more close to bang-for-the-buck parity with rich layering of batter, sweet potato and onions, drizzled in a delicious brown sauce.
+
+With a glass of refreshing lemongrass and pineapple soda (RMB32) and a good latte (RMB32), our brunch came to almost RMB300. 
+
+Egg feels more like a high-ticket café, conducive to nibbling snippets of variety alongside casual chatter. Dishes are on the lighter side and come at a price. Will there be enough fans to keep it full on weekend mornings? Probably. Rotate the menu frequently and add a free side with every dish and we’ll upgrade that to “most likely.”
