@@ -3,7 +3,7 @@ layout: post
 title: Anthologia Shanghai
 oneline: "From the founders of Shanghai's best restaurant"
 date: 2016-03-13 17:20:44.000000000 +08:00
-excerpt: Large scale public architecture is a real hoot. Every city in the world is waking up to the magnetism of a cultural, functional landmark designed by an archtectural super star. Thanks to Zaha Hadid's recent addition, Seoul is right up there on the list.
+excerpt: Atop watching a highly skilled professional preparing some of the most divine mouthfuls in the world came an almost too-wacky burst of video and costume min-peformances alongside the theme of the evening.
 categories:
 - China
 tags:
