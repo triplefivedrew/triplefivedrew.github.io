@@ -34,7 +34,7 @@ image-gallery:
   -  url: /assets/long-museum-eliasson/Olafur_Eliasson_Long_Museum_0011.jpg
      caption: "Olafur Eliasson, All Your Views"
   -  url: /assets/long-museum-eliasson/Olafur_Eliasson_Long_Museum_0012.jpg
-     caption: "Olafur Eliasson, Your Dissapearing Garden"
+     caption: "Olafur Eliasson, Your Disappearing Garden"
   -  url: /assets/long-museum-eliasson/Olafur_Eliasson_Long_Museum_0013.jpg
      caption: "Olafur Eliasson, Happiness"
   -  url: /assets/long-museum-eliasson/Olafur_Eliasson_Long_Museum_0014.jpg
